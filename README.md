@@ -79,8 +79,7 @@ A **~97% delivery success rate** indicates a reliable logistics network, with ca
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/olist-ecommerce-analysis.git
-cd olist-ecommerce-analysis
+git clone https://github.com/veer-bajpai/Olist-E-Commerce-Customer-Behavior-Sales-Intelligence
 ```
 
 ### 2. Create a virtual environment
