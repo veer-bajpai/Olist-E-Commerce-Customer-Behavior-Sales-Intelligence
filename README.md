@@ -149,13 +149,14 @@ See [`INSIGHTS.md`](./INSIGHTS.md) for a detailed written breakdown of all findi
 
 ---
 
-## 📄 License
+## 👤 Author
 
-This project is licensed under the **MIT License**. The underlying dataset is made available by Olist under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+**Veer Bajpai**
+Data Engineer | Data Analyst | Python & SQL
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/veer-bajpai/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/veer-bajpai)
 
 ---
 
-## 🙌 Acknowledgements
-
-- [Olist](https://olist.com/) for making the dataset publicly available.
-- The Kaggle community for enriching discussions around this dataset.
+> ⭐ *If you found this project useful or insightful, consider giving it a star — it helps others discover it too.*
